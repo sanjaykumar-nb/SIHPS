@@ -15,7 +15,7 @@ Location-Based Facility Finder: An interactive map and search feature to locate 
 ## Proposed Solution / Architecture Diagram
 Create an interactive web application that allows users to easily locate the nearest e-waste collection and recycling facilities. The core feature of the application will be a map-based interface where users can search for facilities based on their current location or a specified address. The application will also provide detailed information about each facility, including contact information, operational hours, and types of e-waste accepted.
 
-
+```
 User Interface (Frontend)
        |
 +------------------+
@@ -38,7 +38,7 @@ User Interface (Frontend)
 |  Firebase Auth   |
 |  Geolocation API |
 +------------------+
-
+```
 
 ## Use Cases
 User Location-Based Facility Finder:
